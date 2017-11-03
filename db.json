@@ -1,9 +1,6 @@
 {
 "posts":[
 	{"id" : 1, "title" : "titolo1"},
-	{"id" : 2, "title" : "titolo2"}
-	
-],
-
+	{"id" : 2, "title" : "titolo2"}],
 "profile": { "name" : "albertovesentini" }
 }
