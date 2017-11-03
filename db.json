@@ -1,6 +1,4 @@
 {
-"posts":[
-	{"id" : 1, "title" : "titolo1"},
-	{"id" : 2, "title" : "titolo2"}],
+"posts":[],
 "profile": { "name" : "albertovesentini" }
 }
